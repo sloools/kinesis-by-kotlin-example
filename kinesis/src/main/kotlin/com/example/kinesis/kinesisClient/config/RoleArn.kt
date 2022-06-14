@@ -9,7 +9,7 @@ import software.amazon.awssdk.services.sts.model.AssumeRoleRequest
 
 @Configuration
 class RoleArn() {
-    val roleArn = "arn:aws:iam::883976656071:role/role-server-log-stream"
+    val roleArn = 
 
 //    val stsClient = StsClient.builder()
 //        .region(Region.AP_NORTHEAST_2)
